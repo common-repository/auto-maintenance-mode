@@ -3,7 +3,7 @@ Contributors: pothi
 Donate link: https://www.paypal.me/pothi
 Tags: maintenance, maintenance mode, under construction, dev site, staging site
 Requires at least: 4.0
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.1.1
 Requires PHP: 5.4
 License: GPLv3
